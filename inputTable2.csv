@@ -1,0 +1,7 @@
+OrderID,DrinkID,FoodID,DrinkAllergen
+1001,1,0,Oat
+1002,2,3,Dairy
+1002,2,3,Nuts
+1002,3,3,Nuts
+1003,4,0,Nuts
+1003,4,0,Soy
